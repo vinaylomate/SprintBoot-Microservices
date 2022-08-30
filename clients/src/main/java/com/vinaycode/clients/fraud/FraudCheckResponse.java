@@ -1,7 +1,6 @@
-package com.vinayservices.fraud;
+package com.vinaycode.clients.fraud;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.NoArgsConstructor;
 
 @AllArgsConstructor
