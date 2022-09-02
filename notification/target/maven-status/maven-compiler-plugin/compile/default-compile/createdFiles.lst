@@ -1,0 +1,8 @@
+com\vinaycode\notification\NotificationApplication.class
+com\vinaycode\notification\NotificationConfig.class
+com\vinaycode\notification\NotificationController.class
+com\vinaycode\notification\NotificationRepository.class
+com\vinaycode\notification\NotificationService.class
+com\vinaycode\notification\rabbitmq\NotificationConsumer.class
+com\vinaycode\notification\Notification$NotificationBuilder.class
+com\vinaycode\notification\Notification.class

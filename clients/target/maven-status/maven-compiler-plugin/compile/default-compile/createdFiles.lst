@@ -1,0 +1,4 @@
+com\vinaycode\clients\notification\NotificationClient.class
+com\vinaycode\clients\fraud\FraudCheckResponse.class
+com\vinaycode\clients\notification\NotificationRequest.class
+com\vinaycode\clients\fraud\FraudClient.class

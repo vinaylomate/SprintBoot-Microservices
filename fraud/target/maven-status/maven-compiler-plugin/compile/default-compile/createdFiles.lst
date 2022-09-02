@@ -1,0 +1,6 @@
+com\vinaycode\fraud\FraudApplication.class
+com\vinaycode\fraud\FraudController.class
+com\vinaycode\fraud\FraudCheckService.class
+com\vinaycode\fraud\FraudCheckHistoryRepository.class
+com\vinaycode\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\vinaycode\fraud\FraudCheckHistory.class
