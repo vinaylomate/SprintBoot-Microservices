@@ -1,6 +1,5 @@
-package com.vinayservices.customer;
+package com.vinaycode.customer;
 
-import com.vinayservices.customer.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

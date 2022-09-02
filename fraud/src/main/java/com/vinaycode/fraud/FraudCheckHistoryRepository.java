@@ -1,4 +1,4 @@
-package com.vinayservices.fraud;
+package com.vinaycode.fraud;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

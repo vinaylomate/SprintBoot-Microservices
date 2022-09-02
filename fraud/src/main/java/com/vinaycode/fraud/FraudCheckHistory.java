@@ -1,4 +1,4 @@
-package com.vinayservices.fraud;
+package com.vinaycode.fraud;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

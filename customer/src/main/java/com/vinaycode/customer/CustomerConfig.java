@@ -1,4 +1,4 @@
-package com.vinayservices.customer;
+package com.vinaycode.customer;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

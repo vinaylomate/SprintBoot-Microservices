@@ -1,4 +1,4 @@
-package com.vinayservices.customer;
+package com.vinaycode.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
